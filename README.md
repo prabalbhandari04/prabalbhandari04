@@ -46,5 +46,5 @@
 
 
 <div align="center">
- <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/prabalbhandari04/prabalbhandari04/blob/main/assets/tumblr_nx9kw4B3Z01qzfsnio4_r1_500.gi ">
+ <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/prabalbhandari04/prabalbhandari04/blob/main/assets/tumblr_nx9kw4B3Z01qzfsnio4_r1_500.gif">
  </div>
