@@ -24,9 +24,7 @@
 
 <hr>
 
-<div align="center">
- <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
- <br>
+
  <div align="center">
 🌱 I’m currently learning **React Native**
 
@@ -35,7 +33,6 @@
 💬 Ask me about **react and NodeJS**
 
 📫 How to reach me **prabalb046348@gmail.com**
- </div>
  </div>
 
 <div align="center">
