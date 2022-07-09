@@ -26,10 +26,10 @@
 
 <br>
  <div align="left">
-🌱 I’m currently learning **React Native**
-👨‍💻 All of my projects are available at [https://github.com/prabalbhandari04](https://github.com/prabalbhandari04)
-💬 Ask me about **react and NodeJS**
-📫 How to reach me **prabalb046348@gmail.com**
+🌱 I’m currently learning **React Native** <br>
+👨‍💻 All of my projects are available at [https://github.com/prabalbhandari04](https://github.com/prabalbhandari04) <br>
+💬 Ask me about **react and NodeJS** <br>
+📫 How to reach me **prabalb046348@gmail.com**<br>
  </div>
  
  <br>
