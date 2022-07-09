@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm 20 years old MERN Stack developer and a Artificial Intelligence Enthusiast from Nepal.</h1>
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-
+<h1 align="center">Hi 👋, I'm 20 years old MERN Stack developer and a</h1>
+<h3 align="center">Artificial Intelligence Enthusiast from Nepal.</h3>
+<br>
+<img hight="400" width="500" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabalbhandari04&label=Profile%20views&color=0e75b6&style=flat" alt="prabalbhandari04" /> </p>
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabalbhandari04" alt="prabalbhandari04" /></a> </p>
+
+<img hight="320" width="450" align="center" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
 
 <p align="left"> <a href="https://twitter.com/prabalb2" target="blank"><img src="https://img.shields.io/twitter/follow/prabalb2?logo=twitter&style=for-the-badge" alt="prabalb2" /></a> </p>
 
