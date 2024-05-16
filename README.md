@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm 21 years old MERN Stack developer</h1>
-<h3 align="center"> and a Artificial Intelligence Enthusiast.</h3>
+<h1 align="center">Hi 👋, I'm a MERN Stack developer and an Artificial Intelligence Enthusiast.</h1>
+
 
 <div align="center">
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=prabalbhandari04&label=Profile%20views&color=0e75b6&style=flat" alt="prabalbhandari04" /> </p>
